@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about python development
 - 📫 How to reach me: instagram
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a coder
+- ⚡ Fun fact: I'm a coder.
 -->
