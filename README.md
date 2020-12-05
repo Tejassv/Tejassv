@@ -1,4 +1,4 @@
-[![MasterHead](https://mail.google.com/mail/u/0?ui=2&ik=c5b627207f&attid=0.1&permmsgid=msg-a:r8335861232691226703&th=175e653ebafc6367&view=att&disp=safe&realattid=175e62674ddf762cc3b1)](https://Tejassv.github.io)
+[![MasterHead](C:\Users\Compaq\Downloads\Blue and White Technology LinkedIn Banner (2).png)](https://Tejassv.github.io)
 <h1 align="center">Hi 👋, I'm Tejasswini</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
