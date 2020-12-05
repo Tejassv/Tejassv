@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\Compaq\Downloads\Blue and White Technology LinkedIn Banner (2).png)](https://Tejassv.github.io)
+[![MasterHead](https://github.com/Tejassv/Tejassv/blob/main/Blue%20and%20White%20Technology%20LinkedIn%20Banner%20(2).png)](https://Tejassv.github.io)
 <h1 align="center">Hi 👋, I'm Tejasswini</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 
